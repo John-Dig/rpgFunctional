@@ -1,7 +1,7 @@
-# Wackortland 
+# Wacktland 2 
 
 ## Description
-Began in early Feb with early JavaScript knowledge, continuing/ refactoring for functional programming April 12.
+Began in early Feb with early JavaScript knowledge, continuing/ totally re doing for functional programming.
 
 
 #### By 

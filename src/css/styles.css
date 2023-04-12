@@ -1,0 +1,62 @@
+html {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+
+body {
+  background-color: #878585;
+  font-family: "Comic Sans MS", cursive, sans-serif;}
+
+button {
+  padding:1rem;
+  font-size:2rem;
+  border-radius: 5px;
+  box-shadow: 1rem;
+  
+}
+#character-status-board {
+  width: 500px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #7f7f7f;
+  border-radius: 5px;
+  background-color: #696969;
+}
+
+#avatar {
+  width: 300px;
+  background-color: #5d5d5d;
+  border-radius: 5px;
+  border: 2px solid #a9a9a9;
+}
+
+#npc {
+  width: 300px;
+  background-color: #222222;
+  color: #ff4500;
+  border-radius: 5px;
+  border: 2px solid #ff4500;
+}
+
+#output-area {
+  font-family: Arial, sans-serif;
+  font-size: 1.25rem;
+  width: 700px;
+  height: 8rem;
+  padding: 1rem;
+  border-radius: 5px;
+  border: 2px solid #a9a9a9;
+  background-color: #4d4d4d;
+  color: #fff;
+}
+
+#form {}
+
+#prompt {
+  height: 2rem;
+  width: 400px;
+  background-color: #222222;
+  color: #a9a9a9;
+  border-radius: 5px;
+  border: 2px solid #a9a9a9;
+}
